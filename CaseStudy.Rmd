@@ -1,0 +1,18 @@
+---
+title: "Exploratory Analysis"
+output: github_document
+---
+
+```{r}
+library(p8105.datasets)
+
+data(nyc_airbnb)
+```
+
+## Understanding Variables 
+
+```{r}
+# View(nyc_airbnb)
+str(nyc_airbnb)
+```
+
