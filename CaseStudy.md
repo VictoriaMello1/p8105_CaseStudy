@@ -1,4 +1,4 @@
-Exploratory Analysis
+Example Case Study
 ================
 
 ``` r
